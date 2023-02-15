@@ -52,7 +52,7 @@ If this is succesful you can skip to [using kuksa.val](#using-kuksaval).
 
 ## Building kuksa.val
 
-First you need to fetch the source. ;ake sure you also get the needed submodules, e.g. by using the `--recursive` flag
+First you need to fetch the source. make sure you also get the needed submodules, e.g. by using the `--recursive` flag
 
 ```
 git clone --recursive https://github.com/eclipse/kuksa.val.git
